@@ -1,0 +1,17 @@
+Package: MariaCADENA
+Type: Package
+Title: Second Homework R
+Version: 0.1.0
+Author: Maria Fernanda Cadena
+Maintainer: Maria Fernanda Cadena  <maria.cadena@polytechnique.edu>
+Description: Allows you to use the functions
+    save_as_csv:   Export a Dataframe as a csv fila in a given path.
+    my_csv_reader: Import in a list the data in the csv of an specified folder
+    multi_excel:   Import the information of all the sheets in an Excel file
+    draw_names:    Graphs the time series of the amount of people with the names specified in the input
+    draw_a_name:   Graphs the time series of a certain name of a certain sex
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: assertthat
