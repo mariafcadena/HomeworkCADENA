@@ -15,3 +15,6 @@ a list with all the information of the csv
 \description{
 Imports in a list the informat of all the csv in a folder
 }
+\examples{
+
+}

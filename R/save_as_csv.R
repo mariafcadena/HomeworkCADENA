@@ -2,11 +2,12 @@
 #'
 #' @param  DataFrame data frame
 #' @param  Path      path where the new csv will be stored
-#' @import assert_that
+#' @import assertthat
 #' @return the new file and the path where it is stored
 #' @export
 #'
 #' @examples
+#' dontrun {save_as_csv(iris,"Documents/ExcelFiles")}
 #'
 save_as_csv <- function(DataFrame, Path)
 {

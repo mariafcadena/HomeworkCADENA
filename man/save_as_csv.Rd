@@ -18,5 +18,6 @@ the new file and the path where it is stored
 Saves Dataframe as a csv file in a specific path
 }
 \examples{
+dontrun {save_as_csv(iris,"Documents/ExcelFiles")}
 
 }
